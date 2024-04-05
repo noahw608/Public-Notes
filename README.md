@@ -4,4 +4,4 @@
 - Fear not I probably have some things to help!
 - Just find your class in the list below and go to its page.
 # Classes
-- [Discrete Math (MATH-221)]()
+- [Discrete Math (MATH-221)](MATH-221)
