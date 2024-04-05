@@ -2,7 +2,8 @@
 This is the Midterm 2 Homepage. This covers everything from HSOLODES to Convolutions
 
 - Resources:
-  - [Practice Problems]()
-  - [Answers]()
-  - [Review Session Notes]()
+  - [Practice Problems](Midterm-2-Practice-Questions-Ans.md)
+  - [Answers](Midterm-2-Questions.md)
+  - [Review Session Notes](Monday-Review.pdf)
+  - [Step Functions Problems](3.2-Guide_.pdf)
 
